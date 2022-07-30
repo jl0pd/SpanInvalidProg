@@ -105,7 +105,7 @@
 	.method public hidebysig static
 		void Main () cil managed
 	{
-		.maxstack 2
+		.maxstack 8
 		.entrypoint
 		.locals init (
 			[0] valuetype [System.Runtime]System.Span`1<int32>,
